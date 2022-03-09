@@ -17,6 +17,7 @@ contribute to:
 - 🔎 [ol-zoom-level](https://github.com/Developer-Plexscape/ol-zoom-level): a custom web element that adds a zoom level control on an OpenLayers based map
 - 🌐 [cesium-angular-example](https://github.com/Developer-Plexscape/cesium-angular-example): a demo application that showcases how to integrate Cesium 3D maps with Angular
 - 🗺️ [ng-builder-google-maps](https://github.com/Developer-Plexscape/ng-builder-google-maps): a CLI builder that adds the Google Maps API into your Angular application
+- 🛠 [ngx-grapesjs](https://github.com/Developer-Plexscape/ngx-grapesjs): a wrapper library for GrapesJS web builder framework
 
 
 ### 👩‍💻 Connect with us
